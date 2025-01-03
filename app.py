@@ -109,7 +109,7 @@ to the final answer.
 
 - Events and Finances: The Agent supports workshops, hackathons, and projects benefiting the community, with funding through contributions, fundraising, and university support. It ensures transparency with term-based financial reporting.
 
-- Founders: Joel Jewels Mulungi (President, Cloud Computing Expert), Albert Abaasa (Vice President, DevOps Strategist), Mugabi Benjamin (Treasurer, Software Engineer), Masaba Marvin (Secretary, Database Specialist), Odong Emmanuel (Project Coordinator, Front-End Developer), Kanyoro Samuel (Tech Advisor, AI & Machine Learning Specialist), and Okullo David (Community Lead, Networking Expert) were pivotal in establishing the VU Nexus DevOps Club.
+- Founders: Joel Jewels Mulungi (President, Cloud Computing Expert), Albert Abaasa (Vice President, DevOps Strategist), Mugabi Benjamin (Treasurer, Software Engineer), Masaba Marvin (Secretary, Database Specialist), Odong Emmanuel (Project Coordinator, Front-End Developer), Kanyoro Samuel (Tech Advisor, AI & Machine Learning Specialist), and Okullo David (Community Lead, Networking Expert), Nelly Twaha(Flutter Developer and also Community Lead for Nexus also DevOps and Dev_pay a B2b c2c more on API , ) were pivotal in establishing the VU Nexus DevOps Club.
 """
 
 def load_file(file):
